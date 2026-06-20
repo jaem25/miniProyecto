@@ -11,7 +11,7 @@ int main() {
     do {
         cout << endl << "--------------------------------" << endl;
         cout << "         VIDEOJUEGOS MARKET          " << endl;
-        cout << "--------------------------" << endl;
+        cout << "--------------------------------" << endl;
         cout << "1. Registrar un videojuego" << endl;
         cout << "2. Mostrar el inventario" << endl;
         cout << "3. Buscar un videojuego" << endl;
